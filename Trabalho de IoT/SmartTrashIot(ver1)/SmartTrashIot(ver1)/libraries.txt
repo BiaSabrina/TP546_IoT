@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+MQTTPubSubClient
+ESP32MQTTClient
+PubSubClient3
+PubSubClient
+Blynk
